@@ -1,4 +1,5 @@
 import html from './html';
+import '../styles/tools.css';
 import { inputsToInject, aggrupatedInputs } from './inputs';
 
 function createLabeledInputGroup({ label, inputs, suffix }) {

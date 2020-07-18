@@ -1,4 +1,5 @@
 import html from './html';
+import '../styles/output.css';
 import { inputsToInject, aggrupatedInputs } from './inputs';
 
 const button = document.getElementById('thebutton');

@@ -1,6 +1,4 @@
 import './styles/thebutton.css';
-import './styles/tools.css';
-import './styles/output.css';
 import Tools from './modules/tools';
 import Output from './modules/output';
 import createMachine from './modules/stateMachine.js';
